@@ -113,10 +113,79 @@ header{
 }
 .hero-pic img{
   margin-top: 50px;
-  width: 100%;
-  height: 680px;
-   
 }
+
+.flower-container{
+  font-style: normal;
+}
+
+.all-flowers{
+  display:flex;
+  gap: 24px;
+ width: 1440px;
+ height: 605px;
+ padding: 65px 240px 128px 240px;
+}
+.flower-text{
+  margin-top: 178px;
+  margin-bottom: 48px;
+  text-align: center;
+}
+.flower-text h2{
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.flower-text p{
+  font-style: normal;
+  font-size: 1rem;
+  color: rgba(39, 39, 39, 0.6);
+  /* line-height: 30px; */
+  font-weight: 400;
+  /* margin-bottom: 32px; */
+}
+.pink-flowers{
+  width: 464px;
+  height: 480px;
+  text-align: center;
+}
+.pink-flowers img{
+   background-color:rgba(167, 33, 98, 0.15);
+   border-radius:  250px 250px 0px 0px;
+   padding: 110px 78px 0px 76px;
+}
+.bouquet{
+   width: 464px;
+  height: 480px;
+  text-align: center;
+  color: black;  /*  -------->p */
+ 
+}
+.bouquet img{
+   background-color:rgba(5, 151, 160, 0.15);
+   padding: 117px 47px 51px 47px;
+   border-radius:  250px 250px 0px 0px;
+}
+.yellow-flowers{
+   width: 464px;
+  height: 480px;
+  text-align: center;
+ 
+}
+.yellow-flowers img{
+  background-color: rgba(71, 125, 17, 0.15);
+  border-radius:250px 250px 0px 0p;
+  padding: 67px 75px 0px 75px;
+  /*  -------->p */
+}
+
+
+
+
+
+
+
+
 
 
 
