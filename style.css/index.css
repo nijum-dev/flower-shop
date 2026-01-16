@@ -78,10 +78,6 @@ header{
   justify-content: space-around;
   /* padding: 197px,972px,147px,240px; */
   gap: 32px;
-  
-  
-
-  
 }
 .hero-text h1{
   font-style: normal;
@@ -108,8 +104,7 @@ header{
 }
 .hero-text{
   width: 708px;
-  margin-top: 197px;
-  
+  margin-top: 197px; 
 }
 .hero-pic img{
   margin-top: 50px;
@@ -118,7 +113,6 @@ header{
 .flower-container{
   font-style: normal;
 }
-
 .all-flowers{
   display:flex;
   gap: 24px;
@@ -170,11 +164,11 @@ header{
    width: 464px;
   height: 480px;
   text-align: center;
+    border-radius:250px 250px 0px 0p;
  
 }
 .yellow-flowers img{
   background-color: rgba(71, 125, 17, 0.15);
-  border-radius:250px 250px 0px 0p;
   padding: 67px 75px 0px 75px;
   /*  -------->p */
 }
